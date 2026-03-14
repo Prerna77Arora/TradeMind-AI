@@ -19,7 +19,7 @@ The system bridges the gap between **AI models and real-world investment decisio
 ## 📈 Stock Price Prediction
 
 - Predicts stock price movements using AI-based time-series forecasting  
-- Evaluated using **81.3% directional accuracy**  
+
 - Designed to remain robust during **volatile market conditions**  
 
 ---
